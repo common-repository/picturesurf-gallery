@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings name="PictureSurf Uploader Settings 1.0">
+	<upload_url>http://www.picturesurf.org/upload/tempfile</upload_url>
+	<max_size>10000000</max_size>
+	<file_types>*.jpg;*.jpeg;*.gif;*.png;*.bmp;</file_types>
+	<title_msg>Upload images from your computer:</title_msg>
+	<uploading_msg>We're uploading your files:</uploading_msg>	
+</settings>
